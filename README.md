@@ -8,7 +8,11 @@
 ### Installation
 I am using `conda` environment so you can directly install the environment from file
 ```bash
-
+conda create --name pr --file requirements.txt
+```
+or 
+```bash
+pip install -r requirements.txt
 ```
 
 ### Usage
