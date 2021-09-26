@@ -4,10 +4,12 @@
 
 > by: SUN Shuo A0162488U
 > 
-> "
 
 ### Installation
+I am using `conda` environment so you can directly install the environment from file
+```bash
 
+```
 
 ### Usage
 
