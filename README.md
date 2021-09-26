@@ -5,8 +5,16 @@
 > by: SUN Shuo 
 > email: shuo.sun@nus.edu.sg
 
+### Prerequisites
+The packages I used here are very simple:
+* python >= 3.6
+* scipy
+* numpy
+* matplotlib
+* tqdm 
+
 ### Installation
-I am using `conda` environment so you can directly install the environment from file
+I am using `conda` environment so you can directly install the environment from file:
 ```bash
 conda create --name pr --file requirements.txt
 ```
@@ -27,10 +35,10 @@ Resulted Figures are saved in `pics/`
 
 ### Results
 #### Q1. Beta-Binomial Naive Bayes Classifier
-![Q1](pics/q1.png?raw=true)
+![Q1](pics/q1.png)
 
 #### Q3. Logistic Classifier
-![Q3](pics/q3.png?raw=true)
+![Q3](pics/q3.png)
 
 #### Q4. K-NN Classifier
-![Q4](pics/q4.png?raw=true)
+![Q4](pics/q4.png)
